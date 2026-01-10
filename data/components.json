@@ -10,5 +10,23 @@
     "category": "Dropdowns",
     "name": "Other Dropdown",
     "path": "components/dropdowns/other-dropdown.html"
+  },
+  {
+    "id": "810e1094-5d30-4d4f-8921-db3407c8f98c",
+    "category": "Dropdowns",
+    "name": "Actions Dropdown",
+    "path": "components/dropdowns/actions-dropdown.html"
+  },
+  {
+    "id": "66557385-e525-402e-a3e4-d3caeebbd227",
+    "category": "Dropdowns",
+    "name": "Status Dropdown",
+    "path": "components/dropdowns/status-dropdown.html"
+  },
+  {
+    "id": "fdd532a9-b851-45f0-80df-eb0c2eb0d902",
+    "category": "Dropdowns",
+    "name": "Organizations Dropdown",
+    "path": "components/dropdowns/organizations-dropdown.html"
   }
 ]
